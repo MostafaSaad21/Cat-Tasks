@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1706876698 source:d:\programs\5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1706880254 source:d:\programs\cat\task 1\problem 5\main.c
+	<stdio.h>
+	<stdlib.h>
+
